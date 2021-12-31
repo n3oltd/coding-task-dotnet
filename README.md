@@ -1,4 +1,4 @@
-# N3O Coding Task (.NET)
+# Coding Task (.NET)
 This coding task is for a .NET developer and assumes that you are familiar with .NET Core, MVC and REST.
 
 Your task is to build a simple API that manages users using the controller in the provided project file.

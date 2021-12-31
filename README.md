@@ -1,9 +1,9 @@
-# N3O Coding Challenge (.NET)
-This coding challenge is for a .NET developer and assumes that you are familiar with .NET Core, MVC and REST.
+# N3O Coding Task (.NET)
+This coding task is for a .NET developer and assumes that you are familiar with .NET Core, MVC and REST.
 
-Your challenge is to build a simple API that manages users using the controller in the provided porject file.
+Your task is to build a simple API that manages users using the controller in the provided project file.
 
-There is no absolute time limit and we won't judge you on how long it took you to complete, however we would suggest you spend no more than 2 hours on this challenge.
+There is no absolute time limit and we won't judge you on how long it took you to complete, however we would suggest you spend no more than 2 hours on this task.
 
 1. You must use .NET Core and C#
 2. The API should be a ASP.NET Core Web API project
